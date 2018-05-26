@@ -4,6 +4,9 @@
         "pdf": "styles/styles.css",
         "ebook": "styles/styles.css"
     },
+    "plugins": [
+        "github-buttons"
+    ],
     "pluginsConfig": {
         "sharing": {
             "facebook": true,
@@ -16,12 +19,7 @@
                 "facebook", "google", "twitter",
                 "weibo", "instapaper"
             ]
-        }
-    },
-    "plugins": [
-        "github-buttons"
-    ],
-    "pluginsConfig": {
+        },
         "github-buttons": {
             "buttons": [
                 {
