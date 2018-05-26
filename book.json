@@ -1,0 +1,36 @@
+{
+    "styles": {
+        "website": "styles/styles.css",
+        "pdf": "styles/styles.css",
+        "ebook": "styles/styles.css"
+    },
+    "pluginsConfig": {
+        "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "weibo": false,
+            "instapaper": false,
+            "vk": false,
+            "all": [
+                "facebook", "google", "twitter",
+                "weibo", "instapaper"
+            ]
+        }
+    },
+    "plugins": [
+        "github-buttons"
+    ],
+    "pluginsConfig": {
+        "github-buttons": {
+            "buttons": [
+                {
+                    "user": "tinysiren",
+                    "repo": "Climbing-log-blog",
+                    "type": "fork",
+                    "size": "large"
+                }
+            ]
+        }
+    }
+}
