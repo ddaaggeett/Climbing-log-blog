@@ -5,6 +5,7 @@
         "ebook": "styles/styles.css"
     },
     "plugins": [
+        "sharing"
         "github-buttons"
     ],
     "pluginsConfig": {
