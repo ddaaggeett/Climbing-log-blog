@@ -1,7 +1,3 @@
-<!--
-this file is the structure of your book
- -->
-
 # Summary
 
 * [How it Works](README.md)
@@ -19,3 +15,4 @@ this file is the structure of your book
     * [#3](rochester-climbing-gyms/red-barn/3.md)
     * [#4](rochester-climbing-gyms/red-barn/4.md)
     * [#5](rochester-climbing-gyms/red-barn/5.md)
+
