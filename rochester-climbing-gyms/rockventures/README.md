@@ -2,7 +2,7 @@
 
 1044 University Ave, Rochester, NY 14607
 
-[Rockventures web page HERE](https://rockventures.net/)
+[Rockventures web page HERE](https://www.rocventuresclimbing.com/)
 
 Linked routes:
 
